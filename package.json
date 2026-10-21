@@ -1,0 +1,8 @@
+{
+  "name": "arena-dos-mortos",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build" },
+  "dependencies": { "phaser": "^3.90.0" },
+  "devDependencies": { "vite": "^5.4.0" }
+}
